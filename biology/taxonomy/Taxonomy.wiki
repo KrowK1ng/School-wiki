@@ -1,0 +1,37 @@
+= Taxonomy =
+
+- The study of the *classification* of living organisms
+
+== Content ==
+
+* [[#Content|Content]]
+* [[#History|History]]
+* [[#Scientific Name|Scientific Name]]
+* [[#Categories|Categories]]
+
+== History ==
+
+=== Aristotle ===				TODO
+
+=== Linnaeus's system ===		TODO
+
+== Scientific Name ==
+
+- Biologists use *scientific names* for species because common names *vary* in their use
+
+=== Rules of writing ===
+
+1) The first letter is *Upper case*, the rest is *Lower case*
+2) If the name is in *digital form* it should be *italicized*
+3) If the name is written *by hand* it should be *underlined*
+
+== Categories ==
+
+* Domain
+* Kingdom
+* Phylum
+* Class
+* Order
+* Family
+* Genus
+* Species
