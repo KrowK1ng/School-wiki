@@ -26,6 +26,7 @@
 3) If the name is written *by hand* it should be *underlined*
 
 == Categories ==
+[[Categories|>open file]]
 
 * Domain
 * Kingdom

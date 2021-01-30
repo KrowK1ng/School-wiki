@@ -1,0 +1,13 @@
+= Categories =
+
+== Domains ==
+
+* Prokarya
+	- [[Monera]]
+* Eukarya
+	- [[Protista]]
+	- [[Fungi]]
+	- [[Plantae]]
+	- [[Animalia]]
+* Non
+	- [[Viruses]]

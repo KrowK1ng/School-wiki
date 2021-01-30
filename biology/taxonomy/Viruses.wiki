@@ -1,0 +1,96 @@
+= Viruses =
+
+== Content ==
+
+* [[#General Info|General info]]
+* [[#Virus structure|Virus structure]]
+* [[#Virus shapes|Virus shapes]]
+* [[#Parasitic nature|Parasitic nature]]
+* [[#Viral reproduction|Viral reproduction]]
+* [[#Disease table|Disease table]] TODO
+
+== General Info ==
+
+- "_virus_" means poison
+- made up of *genetic material* and *protein*
+- are *infectous* and cause many human diseases
+- can live in *every* organism
+- reproduce only in a cell
+- size from 17nm to 1000nm in diameter
+
+== Virus structure ==
+
+*Virus particle*
+- Covering
+	- Capsid (protein)
+	- Envelope (not found in all viruses)
+- Inner core
+	- Nucleic acid molecule (DNA or RNA)
+	- Varous proteins (enzymes)
+
+== Virus shapes ==
+
+* Round virus
+* Thread Virus
+* Rod Virus
+* Bullet virus
+* Robot virus (called Bacteriophage)
+
+== Parasitic nature ==
+
+Viruses:
+	- obligate intracellular parasites
+	- infect all sort of cells, but are very specific
+
+Example:
+	* *Bacteriophage* - infect only bacteria
+	* *Tobacco mosaic virus* - infect only plants
+	* *Rabies* - infect only mamals
+
+*Note*: Some human viruses even specialize in a particular tissue
+	* *HIV* - enters only certain blood cells
+	* *Polio virus* - reproduces in spinal nerve cells
+	* *Hepatits* - infect only liver cell
+
+== Viral reproduction ==
+
+_Lytic cycle_ - reproduction occurs, cells burst
+_Lysogenic cycle_ - reproduction doesn't occur immediately
+
+*Lytic cycle*
+	1) Attachement
+		- Capsid combines with receptor
+	2) Penetration
+		- Viral DNA enters host
+	3) Biosynthesis
+		- Viral components are syntesized
+	4) Maturation
+		- Assembly of viral components
+	5) Release
+		- New viruses leave host cell
+
+*Lysogenic cycle*
+	* 2nd Lytic step
+	* Integration
+		- Viral DNA is integrated into bacterial DNA and is passed on when bacteria reproduce
+	* 3rd Lytic step
+
+[[file:viral-reproduction.png|image source]]
+
+== Disease table ==
+
+TODO
+
+| Disease         | Description of illness                       | Methods of transmission   |
+| --------        | -----------------------                      | ------------------------- |
+| AIDs            | Immune system failure                        |                           |
+| Common cold     | Sinus congestion, muscle aches, cough, fever |                           |
+| Ebola           |                                              |                           |
+| Hepatitis A     |                                              |                           |
+| Hepatitis B     |                                              |                           |
+| Influenza (flu) |                                              |                           |
+| Mumps           |                                              |                           |
+| Polio           |                                              |                           |
+| Rabies          |                                              |                           |
+| Smallpox        |                                              |                           |
+| Yellow fevr     |                                              |                           |
