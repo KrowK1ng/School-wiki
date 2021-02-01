@@ -17,7 +17,6 @@
 == Introduction ==
 
 * They have seeds
-* Some plants have nor
 
 === Plants Structure ===
 [[file:plantae/plant-struct.png|>source image]]
@@ -25,6 +24,8 @@
 * Stems
 * Leaves
 * Flower
+
+* It's not necessary to have all of them
 
 == Characteristics ==
 
@@ -39,7 +40,7 @@
 
 == Vascular Tissue ==
 
-_*Vascular tissue*_ - a systen of tube-like cells that carry materials( water, minerals, food ) throughout a plant
+_*Vascular tissue*_ - a system of tube-like cells that carry materials( water, minerals, food ) throughout a plant
 
 - allow the plant to develop itself better
 
@@ -89,7 +90,7 @@ Kingdom Plantae			TODO
 	* Have one-celled rhizoids
 3) Hornworts
 	* [[file:plantae/hornwarts.png|>image]]
-	* *Flattened* body like *liveworts*
+	* *Flattened* body like *liverworts*
 	* Their spore-producing structure is like *horn*
 
 === Pteridophytae ===
@@ -115,13 +116,13 @@ Kingdom Plantae			TODO
 	* Spores are released from the _*sori*_
 2) Horsetails
 	* [[file:plantae/horsetails.png|> image]]
-	* *Cange appearance* between spring and summer
+	* *Change appearance* between spring and summer
 	* Have *unique* stem
 	* Stem is *jointed*
-	* Hollow center surrounder by a *ring of vasculat tissue*
+	* Hollow center surrounded by a *ring of vascular tissue*
 	* At each ring are formed *leaves* around the stem
 	* Spores are produced at the tip of cone-like structures (like ground pines and spike mosses)
-	* In these plants is found *silicia*, a sabd-like material
+	* In these plants is found *silicia*, a sand-like material
 	* That's why horsetails are used for *polishing* and *scouring*
 3) Club Mosses
 	* [[file:plantae/cub-mosses1.png|> image 1,]][[file:plantae/cub-mosses2.png| image 2]]
@@ -143,7 +144,7 @@ Kingdom Plantae			TODO
 * House plants
 * Keep a good shade
 * *Shagnum* mossess are used for gardening
-* fearns as weaving material
+* Ferns as weaving material
 * Some parts of ferns are eatable: rhizomes, young fronds
 * Folk medicine: bee stings, burns, fever and dandruff
 
@@ -172,17 +173,17 @@ Kingdom Plantae			TODO
 === Angiosperms ===
 
 - Produce seeds in flowers
-- _*Fuits*_ - cover and protect the seed
+- _*Fruits*_ - cover and protect the seed
 
 ==== Angiosperms Types ====
 [[file:plantae/angiosperms.png|> image]]
 
-|                 | Monocot                                                      | Dicot                                               |
-| Flowers         | Flower parts are in multiples of 3                           | Flower parts are in multiples of 4 or 5             |
-| Leaves          | have smooth edges and often narrow shape with parallel veins | are oval or plamte(handlike) with netlike veins     |
-| Vascular Tissue | Vascular bundles are scatteret in stem                       | Vascular bundles are arranged in a ring around stem |
-| Root pattern    | Fibrous root system                                          | Tap root system                                     |
-| Embry in seed   | The embry has one cotyledon(seed leaf)                       | The embry has 2 cotyledons                          |
+|                 | Monocot                                                      | Dicot                                                  |
+| Flowers         | Flower parts are in multiples of 3                           | Flower parts are in multiples of 4 or 5                |
+| Leaves          | have smooth edges and often narrow shape with parallel veins | are oval or plamate(handlike) shape with netlike veins |
+| Vascular Tissue | Vascular bundles are scattered in stem                       | Vascular bundles are arranged in a ring around stem    |
+| Root pattern    | Fibrous root system                                          | Tap root system                                        |
+| Embry in seed   | The embry has one cotyledon(seed leaf)                       | The embry has 2 cotyledons                             |
 [[file:plantae/cots-types.png|> source image]]
 
 [[file:plantae/monocotyledons.png|> monocots examples]]
