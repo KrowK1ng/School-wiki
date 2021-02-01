@@ -1,0 +1,104 @@
+= Plantae =
+
+== Content ==
+
+* [[#Introduction|Introduction]]
+* [[#Characteristics|Characteristics]]
+* [[#Vascular Tissue|Vascular Tissue]]
+* [[#Classification|Classification]]
+	* [[#Bryophyta|Bryophyta]]
+	* [[#Pteridophytae|Pteridophytae]]
+	* [[#Angiosperms|Angiosperms]]
+	* [[#Gymnosperms|Gymnosperms]]
+* Flowers Structure
+* Pollination
+* Growth Period
+
+== Introduction ==
+
+* They have seeds
+* Some plants have nor
+
+=== Plants Structure ===
+TODO add image
+* Roots
+* Stems
+* Leaves
+* Flower
+
+== Characteristics ==
+
+- are *multicelular, eukaryotic and autotrophic*
+- tissues:
+	- plant growth
+	- cover and protection
+	- support and strength
+- lack motility (can't move)
+- can grow by cell division
+- can adapt
+
+== Vascular Tissue ==
+
+TODO add image
+_*Vascular tissue*_ - a systen of tube-like cells that carry materials( water, minerals, food ) throughout a plant
+
+- allow the plant to develop itself better
+
+== Classification ==
+
+Kingdom Plantae			TODO
+	- *Has vascular tissue?*
+		- No  : [[#Bryophyta|Bryophyta]]
+		- Yes : *Has seeds?*
+			- No  : [[#Pteridophytae|Pteridophytae]]
+			- Yes 
+				- [[#Angiosperms|Angiosperms]]
+				- [[#Gymnosperms|Gymnosperms]]
+
+=== Bryophyta ===
+
+- *non vascular* land plants
+- small
+- grow close to the ground
+- are very small in structure
+- reproduction process is carried in their *spores*
+- play a vital role in *preventing soil erosion*
+
+==== Bryophyta Classification ====
+TODO add image
+
+1) Mosses
+	* TODO add image
+	* Most nonvascular plants are mosses
+	* They have:
+		- Green, leaf-like growths
+		- Growths are arranged around a central stalk
+		- Rhizods composed of many cells
+		- Some stalks with caps are observed in some mosses
+		- From these caps are released the spores
+	* Can easily be on tree trunks, rocks, old walls or ground
+	* Some of mosses are adopted to live in deserts
+2) Liveworts _(liver = liver, word = herb)_
+	* TODO add image
+	* Were used in medicine treating *liver illnesses*
+	* Are *rootless*
+	* Flattened (straigt), leaf-like body
+	* Have one-celled rhizoids
+3) Hornworts
+	* TODO add image
+	* *Flattened* body like *liveworts*
+
+=== Pteridophytae ===
+
+- reproduce with *spores* (seedless)
+- have *vascular tissues*
+- unlike mosses, this plants grow *higher* from soil surface
+- water is absorbent from *roots*
+- about 1000 species
+- the majority are *ferns*
+- some species are known only by their *fossils*
+- in the past horsetails grew until *15m tall* (today is 2m)
+
+=== Angiosperms ===
+
+=== Gymnosperms ===

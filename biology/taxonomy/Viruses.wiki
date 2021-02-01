@@ -2,12 +2,12 @@
 
 == Content ==
 
-* [[#General Info|General info]]
-* [[#Virus structure|Virus structure]]
-* [[#Virus shapes|Virus shapes]]
-* [[#Parasitic nature|Parasitic nature]]
-* [[#Viral reproduction|Viral reproduction]]
-* [[#Disease table|Disease table]] TODO
+* [[#General Info|General Info]]
+* [[#Virus Structure|Virus Structure]]
+* [[#Virus Shapes|Virus Shapes]]
+* [[#Parasitic Nature|Parasitic Nature]]
+* [[#Viral Reproduction|Viral Reproduction]]
+* [[#Disease Table|Disease Table]] TODO
 
 == General Info ==
 
@@ -18,7 +18,7 @@
 - reproduce only in a cell
 - size from 17nm to 1000nm in diameter
 
-== Virus structure ==
+== Virus Structure ==
 
 *Virus particle*
 - Covering
@@ -28,7 +28,7 @@
 	- Nucleic acid molecule (DNA or RNA)
 	- Varous proteins (enzymes)
 
-== Virus shapes ==
+== Virus Shapes ==
 
 * Round virus
 * Thread Virus
@@ -36,7 +36,7 @@
 * Bullet virus
 * Robot virus (called Bacteriophage)
 
-== Parasitic nature ==
+== Parasitic Nature ==
 
 Viruses:
 	- obligate intracellular parasites
@@ -52,7 +52,7 @@ Example:
 	* *Polio virus* - reproduces in spinal nerve cells
 	* *Hepatits* - infect only liver cell
 
-== Viral reproduction ==
+== Viral Reproduction ==
 
 _Lytic cycle_ - reproduction occurs, cells burst
 _Lysogenic cycle_ - reproduction doesn't occur immediately
@@ -77,7 +77,7 @@ _Lysogenic cycle_ - reproduction doesn't occur immediately
 
 [[file:viral-reproduction.png|image source]]
 
-== Disease table ==
+== Disease Table ==
 
 TODO
 
